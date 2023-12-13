@@ -1,0 +1,9 @@
+D:\Projects\Visual Studio\source\repos\To-Do List\To-Do List.Web\obj\Release\net8.0\linux-x64\To-Do List.Web.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio\source\repos\To-Do List\To-Do List.Web\obj\Release\net8.0\linux-x64\To-Do List.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Visual Studio\source\repos\To-Do List\To-Do List.Web\obj\Release\net8.0\linux-x64\To-Do List.Web.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\source\repos\To-Do List\To-Do List.Web\obj\Release\net8.0\linux-x64\To-Do List.Web.AssemblyInfo.cs
+D:\Projects\Visual Studio\source\repos\To-Do List\To-Do List.Web\obj\Release\net8.0\linux-x64\To-Do List.Web.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\source\repos\To-Do List\To-Do List.Web\obj\Release\net8.0\linux-x64\To-Do List.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Visual Studio\source\repos\To-Do List\To-Do List.Web\obj\Release\net8.0\linux-x64\To-Do List.Web.RazorAssemblyInfo.cache
+D:\Projects\Visual Studio\source\repos\To-Do List\To-Do List.Web\obj\Release\net8.0\linux-x64\To-Do List.Web.RazorAssemblyInfo.cs
+D:\Projects\Visual Studio\source\repos\To-Do List\To-Do List.Web\obj\Release\net8.0\linux-x64\To-Do List.Web.sourcelink.json

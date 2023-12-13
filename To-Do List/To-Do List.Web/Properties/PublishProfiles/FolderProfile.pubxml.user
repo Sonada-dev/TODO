@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Projects\Visual Studio\source\repos\To-Do List\To-Do List.Web\publishWeb</_PublishTargetUrl>
+    <History>True|2023-12-13T06:39:16.2941442Z;True|2023-12-13T11:33:48.3035320+05:00;True|2023-12-13T11:17:24.0625870+05:00;True|2023-12-13T08:25:17.9256349+05:00;False|2023-12-13T08:24:57.7551861+05:00;False|2023-12-13T08:23:33.6136910+05:00;False|2023-12-13T08:23:14.5547005+05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
